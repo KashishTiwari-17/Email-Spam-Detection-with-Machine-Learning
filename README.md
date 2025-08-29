@@ -1,4 +1,4 @@
-# OIBSIP_Data-science_task4
+# Email Spam Detection with Machine Learning
 # Objective of the Task
 The objective of this project is to build a spam classifier that can distinguish between spam and ham (non-spam) emails using machine learning. The model is trained on a labeled SMS dataset and uses text preprocessing, TF-IDF vectorization, and a Naive Bayes classifier to make predictions.
 
